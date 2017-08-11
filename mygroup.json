@@ -1,0 +1,20 @@
+[  
+   {  
+      "name":"Keerti",
+      "roll":"1210715159",
+       "branch":"IT",
+       "batch" : "2015-19"
+   },
+   {  
+      "name":"Pratyusha",
+      "roll":"1210715134",
+        "branch":"IT",
+       "batch" : "2015-19" 
+  },
+   {  
+      "name":"Sanjana",
+      "roll":"1210716225",
+        "branch":"IT",
+       "batch" : "2016-20"
+   }
+]
